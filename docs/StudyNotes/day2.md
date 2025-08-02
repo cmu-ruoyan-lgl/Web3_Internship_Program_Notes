@@ -6,6 +6,7 @@
 
 整理个人简历
 配置claude进行dapp开发的agent管理
+预约ivy和rayer进行行业咨询
 
 ## 学习内容
 
