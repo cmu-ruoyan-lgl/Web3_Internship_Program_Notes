@@ -48,8 +48,15 @@ timeStamp: 1753977600
 
 ### 扩展资料（会收集期间看到的其他有意义的资料）
 - [【有道云笔记】区块链技术原理](https://share.note.youdao.com/s/PwqL56CJ)
+- [Foundry官方文档](https://getfoundry.sh/introduction/getting-started)
   
 ### 工作机会
+- [Dejob](https://www.dejob.top/)
+- [SmartDeer](https://www.smartdeer.com/)
+- [电鸭社区](https://eleduck.com/)
+- [Web3Career](https://web3.career/)
+- [CryptoJobs](https://crypto.jobs/)
+
 
 ### 联系方式
 - RuoYan
