@@ -25,7 +25,7 @@ timeStamp: 1753977600
 
 ### 日常任务（完成后点击即可直接提交得分和任务证明）:
 - [ ] Gather Town晚自习（**5 分**） [提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9AGather%20Town%20%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%885%20%E5%88%86%EF%BC%89&point=5)
-- [ ] 参加以太坊中文周会（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%AD%E6%96%87%E5%91%A8%E4%BC%9A%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
+- [ ] 参加以太坊中文周会（每周一下午 **2** 点）（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%AD%E6%96%87%E5%91%A8%E4%BC%9A%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
 - [ ] 参加周五实习计划例会（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E5%91%A8%E4%BA%94%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92%E4%BE%8B%E4%BC%9A%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
 - [ ] 参加周五实习计划例会并主动申请分享笔记或者感悟（**40 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E5%91%A8%E4%BA%94%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92%E4%BE%8B%E4%BC%9A%E5%B9%B6%E4%B8%BB%E5%8A%A8%E7%94%B3%E8%AF%B7%E5%88%86%E4%BA%AB%E7%AC%94%E8%AE%B0%E6%88%96%E8%80%85%E6%84%9F%E6%82%9F%EF%BC%8840%20%E5%88%86%EF%BC%89&point=40)
 - [ ] 参加知识分享会（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E4%BC%9A%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
@@ -56,3 +56,10 @@ timeStamp: 1753977600
 - Wechat：18266693158
 - Telegram： @ruoyan_ton
 - **欢迎fork，欢迎提建议，欢迎补充，欢迎加好友一起吹nb**
+
+### 打个广告
+
+TradingFlow是一款Web3自动化量化交易工具，在最近的 Solana Japan / ETH 杭州 / Web3 HK 的黑客松上都获得了好评/Top奖项。
+Demo演示： youtu.be/dhsNnFw5goo
+Wx社区链接：
+![Wechat_TradingFlow](tradingFlowCommunityLink.jpg)
