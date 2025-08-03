@@ -11,6 +11,7 @@ timeStamp: 1753977600
 
 - [残酷共学打卡页面](https://intensivecolearn.ing/programs/Web3_Internship_Program)
 - [Web3 实习计划 - 2025 夏季 学习资料库](https://ethpanda.notion.site/2025-summer-web3-internship-program)
+- [开营仪式视频回放](Youtube：https://youtu.be/-sWK553bXdk)
 - [自习室1](https://app.gather.town/app/rdVZGSe5QCKhvwzv/Web3InternshipProgram)、[自习室2](https://app.gather.town/app/fA4NvSTebBYflpNI/Web3InternshipProgram2)、[自习室3](https://app.gather.town/app/7Ycu439o2fGG6a4s/Web3InternshipProgram3)
 - [谷歌日历 Google Calendar](https://calendar.google.com/calendar/u/0?cid=NzM1YmM2ZmM0YWI2YTY3ODRlYjEwMmFiMDA4YzA2NDk3NjJhNWY0YmFkZmQzMzBmYjNiZjVhZjRmYjcyMjNmM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [安装常用Web3工具](https://web3intern.xyz/zh/remote-work-guide/)
