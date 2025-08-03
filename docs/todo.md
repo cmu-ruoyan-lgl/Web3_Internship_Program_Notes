@@ -10,6 +10,7 @@ timeStamp: 1753977600
 ### 常用link（目前整理了第一周用到的部分）
 
 - [残酷共学打卡页面](https://intensivecolearn.ing/programs/Web3_Internship_Program)
+- [Web3 实习计划 - 2025 夏季 学习资料库](https://ethpanda.notion.site/2025-summer-web3-internship-program)
 - [自习室1](https://app.gather.town/app/rdVZGSe5QCKhvwzv/Web3InternshipProgram)、[自习室2](https://app.gather.town/app/fA4NvSTebBYflpNI/Web3InternshipProgram2)、[自习室3](https://app.gather.town/app/7Ycu439o2fGG6a4s/Web3InternshipProgram3)
 - [谷歌日历 Google Calendar](https://calendar.google.com/calendar/u/0?cid=NzM1YmM2ZmM0YWI2YTY3ODRlYjEwMmFiMDA4YzA2NDk3NjJhNWY0YmFkZmQzMzBmYjNiZjVhZjRmYjcyMjNmM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [安装常用Web3工具](https://web3intern.xyz/zh/remote-work-guide/)
@@ -22,6 +23,7 @@ timeStamp: 1753977600
 - [以太坊智能合约开发教程](https://speedrunethereum.com/)
 - [Sepolia测试币水龙头](https://sepolia-faucet.pk910.de/)
 - [myFirstNFT](https://nft.myfirst.io/)
+- [LearnWeb3.io](https://learnweb3.io/)
 
 ### 日常任务（完成后点击即可直接提交得分和任务证明）:
 - [ ] Gather Town晚自习（**5 分**） [提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9AGather%20Town%20%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%885%20%E5%88%86%EF%BC%89&point=5)
