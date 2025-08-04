@@ -4,9 +4,10 @@
 
 ## 今日学习目标
 
-整理个人简历
-配置claude进行dapp开发的agent管理
-预约ivy和rayer进行行业咨询
+- [x] 整理个人简历
+- [x] 配置claude进行dapp开发的agent管理
+- [x] 预约ivy和rayer和晓慧进行行业咨询
+- [x] 完成phlish知识挑战 
 
 ## 学习内容
 
