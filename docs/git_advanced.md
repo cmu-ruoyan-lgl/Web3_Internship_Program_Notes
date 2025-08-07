@@ -1,18 +1,25 @@
-```markdown
 # Git 进阶操作学习笔记
 
 ## 目录
-1. [交互式暂存 (Interactive Staging)](#1-交互式暂存-interactive-staging)
-2. [Git Stash 临时存储](#2-git-stash-临时存储)
-3. [Git Rebase 变基](#3-git-rebase-变基)
-4. [Git Cherry-Pick 拣选提交](#4-git-cherry-pick-拣选提交)
-5. [综合操作示例](#5-综合操作示例)
+- [Git 进阶操作学习笔记](#git-进阶操作学习笔记)
+  - [目录](#目录)
+    - [1. 交互式暂存 (Interactive Staging)](#1-交互式暂存-interactive-staging)
+    - [2. Git Stash 临时存储](#2-git-stash-临时存储)
+    - [3. Git Rebase 变基](#3-git-rebase-变基)
+      - [基础变基](#基础变基)
+      - [交互式变基（改写提交历史）](#交互式变基改写提交历史)
+    - [4. Git Cherry-Pick 拣选提交](#4-git-cherry-pick-拣选提交)
+      - [基础用法](#基础用法)
+      - [冲突处理流程](#冲突处理流程)
+    - [5. 综合操作示例](#5-综合操作示例)
+    - [6.scope](#6scope)
 
 ---
 
 ### 1. 交互式暂存 (Interactive Staging)
 **作用**：精细控制提交内容，逐块选择更改  
 **命令**：
+
 ```bash
 git add -p
 ```
