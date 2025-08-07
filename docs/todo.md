@@ -49,12 +49,19 @@ timeStamp: 1753977600
 - [ ]  第一周：撰写有一定信息含量的学习总结（发布 Twitter 或者个人博客）（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E6%92%B0%E5%86%99%E6%9C%89%E4%B8%80%E5%AE%9A%E4%BF%A1%E6%81%AF%E5%90%AB%E9%87%8F%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%EF%BC%88%E5%8F%91%E5%B8%83%20Twitter%20%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%89%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
 - [x]  完成 https://unphishable.io/ 钓鱼攻防挑战（至少 1–2 章节）（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E5%AE%8C%E6%88%90%E9%92%93%E9%B1%BC%E6%94%BB%E9%98%B2%E6%8C%91%E6%88%98%EF%BC%88%E8%87%B3%E5%B0%91%201%E2%80%932%20%E7%AB%A0%E8%8A%82%EF%BC%89%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
 
+### 个人笔记
+
+- [Git进阶](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/git_advanced)
+- bitcoinWhitePaperNotes
+- [UniswapV2技术实现]
+- [Web3法律安全]
+
 ### 扩展资料（会收集期间看到的其他有意义的资料）
 - [【有道云笔记】区块链技术原理](https://share.note.youdao.com/s/PwqL56CJ)
 - [Foundry官方文档](https://getfoundry.sh/introduction/getting-started)
 - [Hardhat官方教程](https://hardhat.org/tutorial)
 - [Remix IDE](https://remix.ethereum.org)
-- 
+  
 ### 工作机会
 - [Dejob](https://www.dejob.top/)
 - [SmartDeer](https://www.smartdeer.com/)

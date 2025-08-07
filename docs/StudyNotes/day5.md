@@ -4,9 +4,9 @@
 
 ## 今日学习目标
 
-- [ ] 参加会议
-- [ ] 研究deploy myFirstNft
-- [ ] 完成前端项目
+- [x] 参加会议
+- [x] 研究deploy myFirstNft
+- [x] 完成前端项目
 
 ## 学习内容
 
