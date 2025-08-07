@@ -49,12 +49,17 @@ timeStamp: 1753977600
 - [ ]  第一周：撰写有一定信息含量的学习总结（发布 Twitter 或者个人博客）（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E6%92%B0%E5%86%99%E6%9C%89%E4%B8%80%E5%AE%9A%E4%BF%A1%E6%81%AF%E5%90%AB%E9%87%8F%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%EF%BC%88%E5%8F%91%E5%B8%83%20Twitter%20%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%89%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
 - [x]  完成 https://unphishable.io/ 钓鱼攻防挑战（至少 1–2 章节）（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E5%AE%8C%E6%88%90%E9%92%93%E9%B1%BC%E6%94%BB%E9%98%B2%E6%8C%91%E6%88%98%EF%BC%88%E8%87%B3%E5%B0%91%201%E2%80%932%20%E7%AB%A0%E8%8A%82%EF%BC%89%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
 
-### 个人笔记
+### 笔记
 
 - [Git进阶](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/git_advanced)
-- bitcoinWhitePaperNotes
-- [UniswapV2技术实现]
-- [Web3法律安全]
+- [技术学习路线](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/Web3TechLearn)
+- [UniswapV2](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/UniswapV2)
+- [UniswapV1、V2对比](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/UniswapV1对比UniswapV2)
+- [UniswapV3]()
+- [AMM深入](https://salbt.github.io/2024/07/22/AMM%E6%B7%B1%E5%85%A5%E4%B8%8E%E8%A7%A3%E6%9E%90/)
+- [Web3法律安全]()
+- [ETH架构]()
+- [Web3运营准备]()
 
 ### 扩展资料（会收集期间看到的其他有意义的资料）
 - [【有道云笔记】区块链技术原理](https://share.note.youdao.com/s/PwqL56CJ)
@@ -81,4 +86,4 @@ timeStamp: 1753977600
 TradingFlow是一款Web3自动化量化交易工具，在最近的 Solana Japan / ETH 杭州 / Web3 HK 的黑客松上都获得了好评/Top奖项。
 Demo演示： youtu.be/dhsNnFw5goo
 Wx社区链接：
-![Wechat_TradingFlow](tradingFlowCommunityLink.jpg)
+![Wechat_TradingFlow](images/tradingFlowCommunityLink.jpg)
