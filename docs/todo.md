@@ -46,7 +46,7 @@ timeStamp: 1753977600
     - [x]  注册 Telegram，加入练习生群以及 ETHPanda、LXDAO TG 社群，在 General 频道发送 gm
     - [x]  创建 Zoom 账号，发起会议并测试麦克风、摄像头与屏幕共享功能，观察电脑的指示和变化
 - [x]  创建 MetaMask 钱包，领取 **Sepolia** 测试币并转账给同学，附带 **Etherscan tx link** 作为证明（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E5%88%9B%E5%BB%BA%20MetaMask%20%E9%92%B1%E5%8C%85%EF%BC%8C%E9%A2%86%E5%8F%96%20Sepolia%20%E6%B5%8B%E8%AF%95%E5%B8%81%E5%B9%B6%E8%BD%AC%E8%B4%A6%E7%BB%99%E5%90%8C%E5%AD%A6%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
-- [ ]  第一周：撰写有一定信息含量的学习总结（发布 Twitter 或者个人博客）（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E6%92%B0%E5%86%99%E6%9C%89%E4%B8%80%E5%AE%9A%E4%BF%A1%E6%81%AF%E5%90%AB%E9%87%8F%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%EF%BC%88%E5%8F%91%E5%B8%83%20Twitter%20%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%89%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
+- [x]  第一周：撰写有一定信息含量的学习总结（发布 Twitter 或者个人博客）（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E6%92%B0%E5%86%99%E6%9C%89%E4%B8%80%E5%AE%9A%E4%BF%A1%E6%81%AF%E5%90%AB%E9%87%8F%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%EF%BC%88%E5%8F%91%E5%B8%83%20Twitter%20%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%89%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
 - [x]  完成 https://unphishable.io/ 钓鱼攻防挑战（至少 1–2 章节）（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%201%20%E5%91%A8%EF%BC%9A%E5%AE%8C%E6%88%90%E9%92%93%E9%B1%BC%E6%94%BB%E9%98%B2%E6%8C%91%E6%88%98%EF%BC%88%E8%87%B3%E5%B0%91%201%E2%80%932%20%E7%AB%A0%E8%8A%82%EF%BC%89%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
 
 ### 笔记
