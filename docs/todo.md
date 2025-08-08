@@ -60,6 +60,7 @@ timeStamp: 1753977600
 - [Web3法律安全]()
 - [ETH架构]()
 - [Web3运营准备]()
+- [foundry初学](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/foundry)
 
 ### 扩展资料（会收集期间看到的其他有意义的资料）
 - [【有道云笔记】区块链技术原理](https://share.note.youdao.com/s/PwqL56CJ)
