@@ -5,10 +5,16 @@
 ## 今日学习目标
 
 - [ ] 深度研究web3前端开发主流框架
-- [ ] 制作一个web3的匿名聊天室
+- [ ] 学习前端知识
+- [ ] 整理相关框架笔记
 
+## 明日学习目标 
+- [ ] 黑客松组队设计
+- [ ] 设计NFT交易市场项目： ERC721，IPFS，contract， wagmi， viem@2.x， react， tailwind css， gasp 实现加入到市场的nft能够滚动显示， 要求实现NFT定价代理出售， 撤回代理， 购买市场的NFT等功能
 
 ## 学习内容
+
+[Build an Ethereum DApp with Next.js, Wagmi, RainbowKit, and Pinata to Mint NFTs on IPFS](https://www.youtube.com/watch?v=2BWdIrfJ3FI&t=60s)
 
 
 ## 学习笔记
