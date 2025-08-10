@@ -113,17 +113,62 @@ workbench.action.focusPanel
 
 ## foundry
 
-### foge
-forge init new_folder
-cd new_folder
+
+### forge
+
+**典型工作流**：
+```bash
+forge init my_project     # 初始化项目
+forge build               # 编译合约
+forge test                # 运行测试（支持模糊测试）
+forge test --mt ${函数名称} -vvvvv  # 测试指定测试合约中过的函数
+forge script Deploy       # 部署脚本执行
+forge fmt                 # 代码格式化
+forge install OpenZeppelin/openzeppelin-contracts
+forge selectors find "balanceOf(address)"  # 0x70a08231
+```
 
 ### cast
 
+**常用场景**：
+```bash
+cast send <合约> "函数" 参数    # 发送交易
+cast call <合约> "视图函数"      # 查询状态
+cast block latest              # 获取最新区块
+cast --to-base 0x1 hex         # 数据格式转换
+cast sig "transfer(address)"   # 计算函数选择器
+```
+
 ### anvil
+
+```bash
+anvil    # 本地虚拟网络
+```
+
+### make
+
+生成如下makefile
+```bash
+include .env
+
+deploy_ruoyancoin:
+    @echo "deploying contract..."
+    forge create src/ruoyancoin.sol:ruoyancoin --private-key ${OWNER_PRIVAYE_KEY} --broadcast --constructor-args ${OWNER_ADDRESS}
+
+mint:
+	@echo "Minting tokens..."
+	cast send ${CONTRCT_ADDRESS} "mint(uint256)" ${MINT_AMOUNT} --private-key ${OWNER_PRIVATE_KEY}
+
+```
+
 
 ## react
 
 
 
 ## next.js 15
+
+## wagmi (建议用这个构建web3前端,底层是ether.js)
+
+## rainbowkit
 
