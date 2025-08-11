@@ -90,10 +90,6 @@
 }
 ```
 
-workbench.action.focusActiveEditorGroup
-workbench.action.focusSideBar
-workbench.action.focusPanel
-
 #### 将焦点置于主侧栏
 ```json
 {
