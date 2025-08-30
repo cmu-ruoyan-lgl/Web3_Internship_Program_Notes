@@ -26,28 +26,14 @@ timeStamp: 1753977600
 - [myFirstNFT](https://nft.myfirst.io/)
 - [LearnWeb3.io](https://learnweb3.io/)
 
-### 日常任务（完成后点击即可直接提交得分和任务证明）:
-- [ ] Gather Town晚自习（**5 分**） [提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9AGather%20Town%20%E6%99%9A%E8%87%AA%E4%B9%A0%EF%BC%885%20%E5%88%86%EF%BC%89&point=5)
-- [ ] 参加以太坊中文周会（每周一下午 **2** 点）（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%AD%E6%96%87%E5%91%A8%E4%BC%9A%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
-- [ ] 参加周五实习计划例会（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E5%91%A8%E4%BA%94%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92%E4%BE%8B%E4%BC%9A%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
-- [ ] 参加周五实习计划例会并主动申请分享笔记或者感悟（**40 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E5%91%A8%E4%BA%94%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92%E4%BE%8B%E4%BC%9A%E5%B9%B6%E4%B8%BB%E5%8A%A8%E7%94%B3%E8%AF%B7%E5%88%86%E4%BA%AB%E7%AC%94%E8%AE%B0%E6%88%96%E8%80%85%E6%84%9F%E6%82%9F%EF%BC%8840%20%E5%88%86%EF%BC%89&point=40)
-- [ ] 参加知识分享会（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E4%BC%9A%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
-- [ ] 未参加知识分享会，但是查看回放并且记录笔记（**15 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E6%9C%AA%E5%8F%82%E5%8A%A0%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E4%BC%9A%EF%BC%8C%E4%BD%86%E6%98%AF%E6%9F%A5%E7%9C%8B%E5%9B%9E%E6%94%BE%E5%B9%B6%E4%B8%94%E8%AE%B0%E5%BD%95%E7%AC%94%E8%AE%B0%EF%BC%8815%20%E5%88%86%EF%BC%89&point=15)
-- [ ] 每周整理一篇优秀学习笔记（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E6%95%B4%E7%90%86%E4%B8%80%E7%AF%87%E4%BC%98%E7%A7%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
+### Todo
 
-### 主线任务（完成后点击即可直接提交得分和任务证明,可修改todo.md标注完成任务项）
-####技术向
-
-
-####运营向
-### 
-
-- [ ]  **搭建并配置 Telegram 社区** → +20 [学分登记链接](https://tally.so/r/nGAXjQ?task=%E7%AC%AC%202%20%E5%91%A8%EF%BC%88%E8%BF%90%E8%90%A5%E5%90%91%EF%BC%89%EF%BC%9A%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%85%8D%E7%BD%AE%20Telegram%20%E7%A4%BE%E5%8C%BA%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
-- [ ]  **寻找以太坊近半年的一个活动，收集和调研这个活动信息，思考可以如何参与，做出策划** → +20 [学分登记链接](https://tally.so/r/nGAXjQ?task=%E7%AC%AC%202%20%E5%91%A8%EF%BC%88%E8%BF%90%E8%90%A5%E5%90%91%EF%BC%89%EF%BC%9A%E6%94%B6%E9%9B%86%E5%92%8C%E8%B0%83%E7%A0%94%E4%BB%A5%E5%A4%AA%E5%9D%8A%E8%BF%91%E5%8D%8A%E5%B9%B4%E7%9A%84%E4%B8%80%E4%B8%AA%E6%B4%BB%E5%8A%A8%E4%BF%A1%E6%81%AF%E5%B9%B6%E5%AE%8C%E6%88%90%E6%80%9D%E8%80%83%E5%8F%AF%E4%BB%A5%E5%A6%82%E4%BD%95%E5%8F%82%E4%B8%8E%EF%BC%8C%E5%81%9A%E5%87%BA%E7%AD%96%E5%88%92%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
-- [ ]  **关注行业近期热点，并且编写一篇快讯或者解读** → +10（例如以太坊十周年直播：https://www.youtube.com/live/igPIMF1p5Bo） [学分登记链接](https://tally.so/r/nGAXjQ?task=%E7%AC%AC%202%20%E5%91%A8%EF%BC%88%E8%BF%90%E8%90%A5%E5%90%91%EF%BC%89%EF%BC%9A%E5%85%B3%E6%B3%A8%E8%A1%8C%E4%B8%9A%E8%BF%91%E6%9C%9F%E7%83%AD%E7%82%B9%EF%BC%8C%E5%B9%B6%E4%B8%94%E7%BC%96%E5%86%99%E4%B8%80%E7%AF%87%E5%BF%AB%E8%AE%AF%E6%88%96%E8%80%85%E8%A7%A3%E8%AF%BB%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
-- [ ]  **策划并执行一场 mini 活动（10 人以上）** → +40 [学分登记链接](https://tally.so/r/nGAXjQ?task=%E7%AC%AC%202%20%E5%91%A8%EF%BC%88%E8%BF%90%E8%90%A5%E5%90%91%EF%BC%89%EF%BC%9A%E7%AD%96%E5%88%92%E5%B9%B6%E6%89%A7%E8%A1%8C%E4%B8%80%E5%9C%BA%20mini%20%E6%B4%BB%E5%8A%A8%EF%BC%8810%20%E4%BA%BA%E4%BB%A5%E4%B8%8A%EF%BC%89%EF%BC%8840%20%E5%88%86%EF%BC%89&point=40)
-- [ ]  **撰写热点分析文章发布推特并获得 20+ 互动（评论 or 转推）** → +20 [学分登记链接](https://tally.so/r/nGAXjQ?task=%E7%AC%AC%202%20%E5%91%A8%EF%BC%88%E8%BF%90%E8%90%A5%E5%90%91%EF%BC%89%EF%BC%9A%E6%92%B0%E5%86%99%E7%83%AD%E7%82%B9%E5%88%86%E6%9E%90%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83%E6%8E%A8%E7%89%B9%E5%B9%B6%E8%8E%B7%E5%BE%97%2020+%20%E4%BA%92%E5%8A%A8%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
-
+- [ ] 学习英语1小时
+- [ ] 修改运营岗位简历
+- [ ] 学习nextjs课程
+- [ ] uniswapV3整理
+- [ ] morph代码学习
+- [ ] uniswapV4学习
 
 ### 笔记
 
