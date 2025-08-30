@@ -46,7 +46,7 @@ About me：https://cmu-ruoyan-lgl.github.io/ruoyan/cn/
 - [AMM深入](https://salbt.github.io/2024/07/22/AMM%E6%B7%B1%E5%85%A5%E4%B8%8E%E8%A7%A3%E6%9E%90/)
 - [Web3法律安全]()
 - [ETH架构]()
-- [Web3运营准备]()
+- [Web3运营准备](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/Web3Law&Safety)
 - [foundry初学](https://cmu-ruoyan-lgl.github.io/Web3_Internship_Program_Notes/foundry)
 
 ### 扩展资料（会收集期间看到的其他有意义的资料）
