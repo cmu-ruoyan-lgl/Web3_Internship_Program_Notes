@@ -4,6 +4,7 @@ path_proofForChallenges: "../ProofForChallenges/"
 timeStamp: 1753977600 
 ---
 
+About me：https://cmu-ruoyan-lgl.github.io/ruoyan/cn/
 
 ## 这个页面是我用来完成web3-internship-program残酷共学创建的，记录一些常用的资料、学习笔记、工作机会、额外学习资料和任务清单。
 ## 有需要的可以Fork一下原仓库，修改/docs/todo.md就可以一键提交任务完成了。[点击查看原仓库](https://github.com/cmu-ruoyan-lgl/Web3_Internship_Program_Notes)
