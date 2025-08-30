@@ -160,11 +160,80 @@ mint:
 
 ## react
 
+创建next项目都完整命令
+```bash
+# 完整版本
+npx create-next-app@latest my-app --typescript --tailwind --eslint --app --src-dir --import-alias "@/*"
+# 简化版本
+npx create-next-app@latest my-app --typescript --tailwind
+```
 
+vite版本
+```bash
+npm create vite@latest my-app -- --template react-ts
+```
 
 ## next.js 15
 
+```bash
+# Prisma数据库操作
+npx prisma generate    # 生成Prisma客户端
+npx prisma db push     # 推送数据库架构
+npx prisma db pull     # 拉取数据库架构
+npx prisma studio      # 打开数据库管理界面
+npx prisma migrate dev # 创建并应用迁移
+# 在开发过程中，按 r 键重启
+# 按 q 键退出
+```
+
 ## wagmi (建议用这个构建web3前端,底层是ether.js)
 
+```bash
+# 安装
+npm install wagmi
+# 使用CLI创建配置文件
+npx wagmi init
+# 这会创建wagmi.config.ts文件
+
+# 生成ABI类型定义
+npx wagmi generate
+
+# 指定配置文件
+npx wagmi generate --config wagmi.config.ts
+
+# 监听文件变化自动生成
+npx wagmi generate --watch
+```
 ## rainbowkit
 
+```bash
+# 安装RainbowKit核心包
+npm install @rainbow-me/rainbowkit
+
+# 安装必要的依赖
+npm install wagmi viem @tanstack/react-query
+
+# 安装字体（可选）
+npm install @rainbow-me/rainbowkit/fonts
+
+# 安装开发依赖
+npm install --save-dev @types/node
+
+# 安装图标库（可选）
+npm install @rainbow-me/rainbowkit/icons
+```
+
+## viem
+
+```bash
+Viem的核心优势：
+✅ 类型安全 - 完整的TypeScript支持
+✅ 高性能 - 优化的批量请求和缓存
+✅ 多链支持 - 支持所有主流以太坊网络
+✅ 现代化API - 基于Promise的异步操作
+✅ 事件系统 - 强大的事件监听能力
+✅ 错误处理 - 详细的错误类型定义
+Viem vs 其他库：
+�� 比ethers.js更快 - 现代化的架构设计
+�� 比web3.js更安全 - 完整的类型检查
+```
